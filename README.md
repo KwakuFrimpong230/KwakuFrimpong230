@@ -67,7 +67,7 @@
     <td width="50%">
       <h3 align="center">🚗 Vehicle Detection CNN</h3>
       <p align="center">
-        <a href="https://github.com/your-username/vehicle-detection-cnn">
+        <a href="https://github.com/KwakuFrimpong230/vehicle-detection-cnn">
           <img src="https://img.shields.io/badge/View%20Repo-1A6FA8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -82,7 +82,7 @@
     <td width="50%">
       <h3 align="center">📊 Autopilot Safety Analysis</h3>
       <p align="center">
-        <a href="https://github.com/your-username/autopilot-safety-analysis">
+        <a href="https://github.com/KwakuFrimpong230/autopilot-safety-analysis">
           <img src="https://img.shields.io/badge/View%20Repo-1A6FA8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
