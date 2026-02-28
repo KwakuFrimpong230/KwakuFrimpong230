@@ -82,7 +82,7 @@
     <td width="50%">
       <h3 align="center">📊 Autopilot Safety Analysis</h3>
       <p align="center">
-        <a href="https://github.com/KwakuFrimpong230/autopilot-safety-analysis">
+        <a href="https://github.com/KwakuFrimpong230/Autonomous-Driving-Safety-Analysis">
           <img src="https://img.shields.io/badge/View%20Repo-1A6FA8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
