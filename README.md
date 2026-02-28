@@ -22,8 +22,8 @@
 
 ## 🚀 What I'm Working On
 
-- 🚗 **[vehicle-detection-cnn](https://github.com/your-username/vehicle-detection-cnn)** — Lightweight dual-head CNN for vehicle classification + bounding box regression across 11 vehicle classes · 181K params · 0.73 MB · CPU-only
-- 📊 **[autopilot-safety-analysis](https://github.com/your-username/autopilot-safety-analysis)** — Data-driven EDA of ADAS & autopilot usage patterns and their impact on road safety using NHTSA crash data
+- 🚗 **[vehicle-detection-cnn](https://github.com/KwakuFrimpong230/vehicle-detection-cnn)** — Lightweight dual-head CNN for vehicle classification + bounding box regression across 11 vehicle classes · 181K params · 0.73 MB · CPU-only
+- 📊 **[autopilot-safety-analysis](https://github.com/KwakuFrimpong230/autopilot-safety-analysis)** — Data-driven EDA of ADAS & autopilot usage patterns and their impact on road safety using NHTSA crash data
 - 🗺️ Exploring **Graph Neural Networks** for spatial road crash risk prediction
 - 📚 Building toward a **PhD** in AI-integrated Transportation Engineering
 
