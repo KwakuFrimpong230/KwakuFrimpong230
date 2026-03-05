@@ -9,8 +9,7 @@
 ---
 
 ## 🧭 About Me
-
-🎓 **MSc. Transport Systems** — Kwame Nkrumah University of Science & Technology, Ghana  
+ 
 🤖 **Professional Certificate in AI & Machine Learning** *(in progress)* — Purdue University / Simplilearn  
 🌍 **Based in** Kumasi & Cape Coast, Ghana  
 🔬 **Research Focus:** AI-powered vehicle detection · Road safety analytics · Smart mobility for African cities  
